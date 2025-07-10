@@ -1,1 +1,3 @@
-console.log('Ativo Portaria carregado');
+document.addEventListener("DOMContentLoaded", function() {
+  alert("Bem-vindo ao sistema Ativo Portaria!");
+});
